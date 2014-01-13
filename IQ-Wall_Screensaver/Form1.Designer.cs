@@ -37,7 +37,7 @@
             this.webControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.webControl1.Location = new System.Drawing.Point(0, 0);
             this.webControl1.Size = new System.Drawing.Size(284, 262);
-            this.webControl1.Source = new System.Uri("http://web.avl.indiana.edu/iQ-Wall/CIB-Wall/Test/test7.php", System.UriKind.Absolute);
+            this.webControl1.Source = new System.Uri("http://rt.uits.iu.edu/visualization/avl/iq-wall.php", System.UriKind.Absolute);
             this.webControl1.TabIndex = 0;
             // 
             // Form1
