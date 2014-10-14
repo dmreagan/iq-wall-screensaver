@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQ-Wall_Screensaver", "IQ-Wall_Screensaver\IQ-Wall_Screensaver.csproj", "{BC7FF1FD-D3A9-4724-964F-C5196E91899A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iq-wall-screensaver", "iq-wall-screensaver\iq-wall-screensaver.csproj", "{BC7FF1FD-D3A9-4724-964F-C5196E91899A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
