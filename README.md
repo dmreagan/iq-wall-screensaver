@@ -3,7 +3,7 @@ IQ-Wall Screensaver
 
 The IQ-Wall Screensaver is a fullscreen web browser designed to be used as a screensaver for the [IQ-Wall](http://rt.uits.iu.edu/visualization/avl/systems/iq-wall.php) tiled displays developed at Indiana University. It runs from the Windows login screen as a sort of "attract mode" while the system is idle.
 
-Developed by the [Advanced Visualization Lab](www.avl.iu.edu) in C#, using version 1.7.3 of the [Awesomium](http://www.awesomium.com/) web browser control.
+Developed by the [Advanced Visualization Lab](http://www.avl.iu.edu) in C#, using version 1.7.3 of the [Awesomium](http://www.awesomium.com/) web browser control.
 
 Build Instructions
 ------------------
