@@ -15,7 +15,7 @@ Installation
 
 Copy the contents of iq-wall-screensaver\iq-wall-screensaver\bin\Release to another directory. We usually use C:\iq-wall-screensaver or C:\screensaver, but you should be able to put it anywhere. Launch iq-wall-screensaver.exe to make sure everything works properly. The browser should launch fullscreen on the system's primary monitor. To kill the application, you will need to right-click the icon in the taskbar or perhaps even use the task manager.
 
-To use the browser as a login screensaver, you must edit your registry. Thus, it is recommended that you make a backup of you registry before continuing. Then right-click install_screensaver.reg and select Edit, or open the file a text editor. Set the value for SCRNSAVE.EXE to the path of the browser exe file. You can also set the delay before the screensaver launches with ScreenSaveTimeOut. When you are done editing, merge install_screensaver.reg into your registry by either double-clicking it or right-clicking and selecting Merge. Test the new registry setting by logging out and waiting for the browser to launch.
+To use the browser as a login screensaver, you must edit your registry. Thus, it is recommended that you make a backup of your registry before continuing. Then right-click install_screensaver.reg and select Edit, or open the file a text editor. Set the value for SCRNSAVE.EXE to the path of the browser exe file. You can also set the delay before the screensaver launches with ScreenSaveTimeOut. When you are done editing, merge install_screensaver.reg into your registry by either double-clicking it or right-clicking and selecting Merge. Test the new registry setting by logging out and waiting for the browser to launch.
 
 Configuration
 -------------
